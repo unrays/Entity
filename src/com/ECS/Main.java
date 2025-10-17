@@ -9,7 +9,7 @@ import com.ECS.components.PositionComponent;
 import com.ECS.components.VelocityComponent;
 import com.ECS.ecs.Entity;   
 import com.ECS.ecs.Registry;      
-
+   
 public class Main {
     public static void main(String[] args) {
         Registry registry = new Registry();
