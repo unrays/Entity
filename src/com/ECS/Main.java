@@ -7,7 +7,7 @@ import com.ECS.components.AgeComponent;
 import com.ECS.components.NameComponent;
 import com.ECS.components.PositionComponent;
 import com.ECS.components.VelocityComponent;
-import com.ECS.ecs.Entity;  
+import com.ECS.ecs.Entity;   
 import com.ECS.ecs.Registry;      
 
 public class Main {
