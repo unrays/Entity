@@ -31,7 +31,7 @@ public class Main {
         velocity.vx = 5; velocity.vy = 2;
 
         System.out.println("[Name] " + name.name);
-        System.out.println("[Age] " + age.age + " ans");
+        System.out.println("[Age] " + age.age + " years old");
         System.out.println("[Position] (" + position.x + ", " + position.y + ")");
         System.out.println("[Velocity] (" + velocity.vx + ", " + velocity.vy + ")");
     }
